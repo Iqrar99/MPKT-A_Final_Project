@@ -1,0 +1,195 @@
+formatnya :
+
+<provinsi> <end>
+
+
+<makanan> <end>
+
+
+<deskripsi> <end>
+
+<link> <end>
+
+----------------------------------------------------------
+
+
+
+<provinsi>
+ 
+Maluku Utara
+<end>
+
+<makanan>
+
+Getang Kenari
+<end>
+
+<deskripsi> 
+Jika menyebut Ternate, maka orang yang pernah berkunjung ke sana akan langsung kepikiran tentang gatang kenari ataau ketam kenari. Makanan khas Maluku bernama unik ini terbuat dari kepiting kenari. Di tempat asalnya, kepiting kenari sebenarnya menjadi satwa yang dilindungi. Akan tetapi, demi pariwisata, sejumlah restoran yang berdiri di Ternate memiliki izin untuk menyajikan kuliner dari kepiting kenari.
+Dikarenakan populasinya yang tak banyak, harga satu porsi kepiting kenari dibandrol hingga mencapai 350 ribu rupiah. Jelas, kepiting kenari bukanlah hidangan yang bisa masuk ke perut sembarangan orang. Alasan lain yang membuat kepiting kenari sangat mahal ialah karena hanya di alam Halmahera kepiting kenari bisa ditemukan. Sebagai informasi, kepiting kenari sendiri adalah hewan darat yang bisa memetik dan bahkan mengupas buah kelapa.
+<end>
+
+<link>
+
+https://budaya-indonesia.org/Gatang-Kenari
+<end>
+
+
+
+
+
+<provinsi>
+ 
+Maluku Utara
+<end>
+
+<makanan>
+
+Nasi Lapola
+<end>
+
+<deskripsi> 
+Nasi lapola menjadi salah satu bukti dari perkembangan seni kuliner di tanah Maluku. Nasi lapola kini sudah mulai dijadikan makanan pokok oleh seumlah masyarakat Maluku. Makanan ini terbuat dari beras, kacang tolo, dan parutan kelapa muda. 
+Penyajian nasi lapola tidak dilakukan sendirian, melainkan ditemani dengan lauk pendamping seperti kohu-kohu yang menggunakan ikan tongkol atau ikan teri basah bersama lalapan mentah dan campuran kelapa parut berbumbu cabai merah, bawang merah, bawang putih, dan perasan jeruk nipis. Nasi lapola juga kerap dimakan dengan sambal colo-colo khas Maluku yang dibuat dari campuran tomat, cabai rawit, bawang merah, dan kecap.
+<end>
+
+<link>
+
+https://budaya-indonesia.org/Nasi-Lapola-5/
+<end>
+
+
+
+
+<provinsi>
+ 
+Maluku
+<end>
+
+<makanan>
+
+Sambal Colo Colo
+<end>
+
+<deskripsi> 
+Salah satu makanan khas Ambon yang terkenal dengan rasa pedasnya adalah sambal colo-colo. Sambal ini seringkali hadir menjadi pendamping makanan yang disantap warga Ambon.
+Sambal yang disajikan tanpa diulek ini terbuat dari berbagai rempah-rempah khas seperti bawang merah, cabai rawit, tomat dan daun seledri. Semua bahan ini kemudian dicampur dan diramu dengan taburan garam dan perasan jeruk nipis untuk menambah cita rasa asam dan pedas.
+<end>
+
+<link>
+
+https://budaya-indonesia.org/Colo-Colo-Buru-Maluku/
+<end>
+
+
+
+
+
+<provinsi>
+ 
+Maluku
+<end>
+
+<makanan>
+
+Kohu Kohu
+<end>
+
+<deskripsi> 
+Kuliner tradisional khas Ambon ini terbuat dari kacang panjang, tauge, mentimun dan daun kemangi yang dicampur bersama irisan bawang merah, bawang putih, cabai, perasan jeruk nipis, kelapa parut dan ikan cakalang yang dipotong kecil-kecil dan disuwir.
+Ikan cakalang juga dapat diganti dengan ikan tongkol atau ikan teri basah. Jangan lupa untuk menyantap kohu-kohu bersama singkong, talas, ubi jalar, atau pisang rebus agar terasa makin lengkap.
+<end>
+
+<link>
+
+https://budaya-indonesia.org/Kohu-Kohu/
+<end>
+
+
+
+
+<provinsi>
+ 
+Papua Barat
+<end>
+
+<makanan>
+
+Ikan Bakar Manokwari
+<end>
+
+<deskripsi> 
+Ikan bakar tentunya sudah tidak heran lagi di telinga kita, karena rasa dan aromanya yang khas membuat semua orang ingin mencicipinya. Ikan Bakar Manokwari yang berasal dari Papua ini, sangat enak dan super pedas. Makanan ini sangat cocok untuk teman-teman yang pecinta pedas.
+Namanya saja sudah Ikan Bakar Manokawari, tentu makanan khas Manokwari, Papua ini wajib kamu coba langsung sensasinya. Menu ini biasa ditemukan di warung-warung atau rumah makan pinggir jalan, di mana cita rasa ikan tongkol diberi sambal khas Papua yang pedas. Dimakan bareng nasi putih hangat pasti enak
+<end>
+
+<link>
+https://budaya-indonesia.org/Ikan-Bakar-Manokwari-3/
+<end>
+
+
+
+
+<provinsi>
+ 
+Papua Barat
+<end>
+
+<makanan>
+
+Sate Ulat Sagu
+<end>
+
+<deskripsi> 
+Salah satunya kuliner ekstrim dari Bumi Cendrawasih ini adalah Sate Ulat Sagu atau masyarakat setempat biasa menyebutnya “Koo”. Untuk mencari ulat sagu ini, di Jayapura Anda tidak perlu repot mencari kehutan dan mencari pohon sagu yang tumbang, karena biasanya di pasar tradisional seperti Pasar Youtea Abepura Jayapura, ada saja warga yang membawa ulat sagu hasil tangkapannya ke pasar dan di jual bersama dengan sayur-mayur yang lain di pasar.
+Bagi sebagian orang, Ulat Sagu ini mungkin menjijikkan, tapi di kalangan warga pribumi Papua, ini adalah hewan yang sudah lumrah di konsumsi dan bisa memberikan energi dengan kadar kolesterol yang rendah. Ulat Sagu ini berasal dari pohon sagu yang dipotong kemudian batangnya dibiarkan membusuk. Batang yang membusuk tersebut akan muncul ulat-ulat. Untuk mengambil ulat-ulat itu, batang sagu tersebut dibongkar/dibuka dengan kapak. Bentuk Ulat Sagu bervariasi, ada yang sangat kecil hingga yang paling besar seukuran jempol jari tangan orang dewasa. Ulat Sagu ini biasa dimakan langsung (masih hidup) atau dimasak terlebih dahulu seperti ditumis, disayur, digoreng dan dijadikan sate.
+<end>
+
+<link>
+https://budaya-indonesia.org/Sate-Ulat-Sagu-3/
+<end>
+
+
+
+<provinsi>
+ 
+Papua
+<end>
+
+<makanan>
+
+Udang Selingkuh
+<end>
+
+<deskripsi> 
+Namanya unik, rasanya mantap. Itulah udang selingkuh khas Wamena, Papua.Sebutan makanan khas dari timur Indonesia ini didapat dari bentuk udang. Hewan yang bernama latin cherax albertisii ini bertubuh udang dengan capit besar mirip kepiting. Tak heran jika yang melihatnya mengira hewan ini merupakan hasil perselingkuhan antara udang dan kepiting. Sesungguhnya, udang selingkuh adalah jenis udang karang atau crayfish. Hewan ini berwarna kebiruan, setelah diolah barulah menghasilkan warna oranye layaknya udang atau lobster lain.
+Udang selingkuh sangat populer di kawasan Wamena. Tekstur dagingnya mirip lobster, padat dan berserat. Pun demikian dagingnya lembut, sengan sedikit rasa manis. Seluruh bagian udang bisa dimakan kecuali kepala. Jika udang pada umumnya hanya bisa dinikmati tubuhnya, udang selingkuh masih menyimpan kenikmatan dalam capitnya yang berukuran ekstra.
+<end>
+
+<link>
+https://budaya-indonesia.org/Udang-Selingkuh-1/
+<end>
+
+
+
+<provinsi>
+ 
+Papua
+<end>
+
+<makanan>
+
+Papeda
+<end>
+
+<deskripsi> 
+Papeda adalah makanan berupa bubur sagu khas Maluku dan Papua yang biasanya disajikan dengan ikan tongkol atau mubara yang dibumbui dengan kunyit. Papeda berwarna putih dan bertekstur lengket menyerupai lem dengan rasa yang tawar. Papeda merupakan makanan yang kaya serat, rendah kolesterol dan cukup bernutrisi. 
+Di berbagai wilayah pesisir dan dataran rendah di Papua, sagu merupakan bahan dasar dalam berbagai makanan.] Sagu bakar, sagu lempeng, dan sagu bola, menjadi sajian yang paling banyak dikenal di berbagai pelosok Papua, khususnya dalam tradisi kuliner masyarakat adat di Kabupaten Mappi, Asmat, hingga Mimika. Papeda merupakan salah satu sajian khas sagu yang jarang ditemukan. Antropolog sekaligus Ketua Lembaga Riset Papua, Johszua Robert Mansoben, menyatakan bahwa papeda dikenal lebih luas dalam tradisi masyarakat adat Sentani dan Abrab di Danau Sentani dan Arso, serta Manokwari
+Papeda merupakan makanan yang eksotis dan unik sehingga mulai dicari oleh petualang kuliner. Kini, papeda dapat ditemukan di beberapa restoran di Jakarta. Salah satu restoran yang menyediakan papeda sebagai menunya adalah Restoran Yougwa di kawasan Kelapa Gading yang merupakan cabang dari Restoran Yougwa cabang Danau Sentani, Jayapura.
+<end>
+
+<link>
+https://budaya-indonesia.org/Yamko-Rambe-Yamko-4/
+<end>
+
+

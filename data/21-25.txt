@@ -1,0 +1,137 @@
+<provinsi>
+Kalimantan Barat
+<end>
+<makanan>
+Bubur Paddas Sambas
+<end>
+<deskripsi>
+Bubur Paddas adalah makanan khas suku Melayu Sambas, Kalimantan Barat. Konon, bubur ini menjadi makanan yang disajikan dalam kerajaan, Kesultanan Melayu Sambas.
+
+Disebut Bubur Paddas bukan karena menggunakan cabai yang banyak, namun karena aroma rempah-rempah yang khas dalam bubur ini.
+<end>
+<link>
+http://wisatapontianak.com/bubur-pedas-melayu-sambas-kalimantan-barat/
+<end>
+
+<provinsi>
+Kalimantan Barat
+<end>
+<makanan>
+Asam Pedas Tempoyak
+<end>
+<deskripsi>
+Tempoyak merupakan bumbu yang terbuat dari bahan berupa daging buah durian yang telah mengalami proses fermentasi. Meskipun begitu, makanan ini menggunakan ikan sebagai bahan utamanya. 
+<end>
+<link>
+https://budaya-indonesia.org/Asam-Pedas-Ikan-Kalimantan-Barat-Kalimantan-Barat-Kalimantan-Barat/
+<end>
+
+<provinsi>
+Kalimantan Tengah
+<end>
+<makanan>
+Kalumpe
+<end>
+<deskripsi>
+Kalumpe, atau yang biasa disebut Karuang, merupakan sayuran yang dibuat dari bahan daun Singkong yang ditumbuk sampai halus, Biasanya, Kalumpe disajikan menggunakan sambal terasi dan nasi hangat. 
+
+Nama Kalumpe diambil dari Bahasa Dayak Maanyan.
+<end>
+<link>
+https://budaya-indonesia.org/Kalumpe-1/
+<end>
+
+<provinsi>
+Kalimantan Tengah
+<end>
+<makanan>
+Wadi Patin
+<end>
+<deskripsi>
+Wadi Patin adalah makanan khas Palangkaraya, yang terbuat dari ikan hasil fermentasi. Konon, masyarakat Dayak dan Banjar dikenal sebagai peladang yang tangguh, sering berpindah-pindah dari satu tempat ke tempat lain. Jauh dari sungai yang menjadi sumber kehidupan mereka, hal tersebut masyarakat Dayak dan Banjar menguasai teknik pengawetan ikan.
+<end>
+<link>
+http://resepmasakannusantaraoriginal.blogspot.com/2017/07/resep-wadi-khas-kalimantan-tengah-asli.html
+<end>
+
+<provinsi>
+Kalimantan Selatan
+<end>
+<makanan>
+Manday
+<end>
+<deskripsi>
+Manday merupakan makanan khas Kalimantan Selatan yang terbuat dari kulit Cempedak. Cempedak sendiri merupakan buah yang bentuk, rasa dan berbau seperti nangka. 
+
+Manday biasa juga disebut Mandai Basang atau kulit Cempedak yang digoreng.
+<end>
+<link>
+https://budaya-indonesia.org/Manday-1/
+<end>
+
+<provinsi>
+Kalimantan Selatan
+<end>
+<makanan>
+Gangan Asam Banjar
+<end>
+<deskripsi>
+Makanan ini menggunakan Ikan Haruan sebagai bahan utamanya. Gangan Asam memiliki warna khas yaitu kuning yang berasal dari kunyit. 
+<end>
+<link>
+https://budaya-indonesia.org/Gangan-Asam-Banjar-Banjar-Kalimantan-Selatan/
+<end>
+
+<provinsi>
+Kalimantan Timur
+<end>
+<makanan>
+Ayam Cincane
+<end>
+<deskripsi>
+Ayam Cincane adalah kuliner yang biasanya dijadikan sebagai hidangan utama ketika masyarakat Samarinda menyelenggarakan pesta pernikahan atau acara menyambut tamu kehormatan. 
+
+Ayam Cincane diolah dari daging ayam kampung yang gurih, dan disajikan bersama sambal yang terbuat dar cabai merah, cabai rawit, tomat, serta garam.
+<end>
+<link>
+https://budaya-indonesia.org/AYAM-BAKAR-CINCANE/
+<end>
+
+<provinsi>
+Kalimantan Timur
+<end>
+<makanan>
+Nasi Bekepor
+<end>
+<deskripsi>
+Nasi Bekepor merupakan santapan campuran minyak sayur, rempah-rempah, dan potongan ikan asin. Makanan ini sudah ada dari Kerajaan Kutai, dan biasanya hanya dapat dinikmati oleh para raja. 
+<end>
+<link>
+https://budaya-indonesia.org/Nasi-Bekepor/
+<end>
+
+<provinsi>
+Gorontalo
+<end>
+<makanan>
+Binte Biluhuta
+<end>
+<deskripsi>
+Makanan ini biasa disebut dengan Milu Siram. Gorontalo, terkenal sebagai daerah penghasil jagung yang subur. Nama Binte berarti Jagung, dan Biluhuta berarti disiram. Jadi, makanan ini berarti jagung yang disiram.
+<end>
+<link>
+https://budaya-indonesia.org/binte-Biluhuta/
+<end>
+
+<provinsi>
+Gorontalo
+<end>
+<makanan>
+Bilenthango
+<end>
+<deskripsi>
+Bilenthango merupakan bahan dasar laut berupa ikan Mujair. Ikan Mujair disajikan dengan cara setengah digoreng serta dipanggang diatas daun pisang yang telah diolesi minyak pada penggorengan dengan api kecil supaya ikan matang sampai ke dalam, dan meminimalkan resiko ikan gosong akibat terlalu lama digoreng.
+<end>
+<link>
+https://budaya-indonesia.org/Bilenthango/
+<end>
