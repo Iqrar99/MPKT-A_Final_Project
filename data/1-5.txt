@@ -1,0 +1,135 @@
+<provinsi>
+Aceh
+<end>
+<makanan>
+Mie Aceh
+<end>
+<deskripsi>
+Mie Aceh adalah masakan mie pedas khas Aceh di Indonesia. Mie kuning tebal dengan irisan daging sapi, daging kambing atau makanan laut disajikan dalam sup sejenis kari yang gurih dan pedas.
+<end>
+<link>
+https://www.rumahmesin.com/cara-membuat-mie-aceh/
+<end>
+
+<provinsi>
+Aceh
+<end>
+<makanan>
+Kue Timpan
+<end>
+<deskripsi>
+Timphan yang memiliki tekstur kenyal dan diolah dengan cara dibungkus daun pisang muda ini meruapakan kuliner khas Aceh yang hanya ditemukan pada saat lebaran Idul Fitri ataupun Idul Adha.
+<end>
+<link>
+https://steemit.com/food/@bohatei/cara-dan-bahan-membuat-kue-timpan-khas-aceh-adde17befb30a
+<end>
+
+<provinsi>
+Sumatera Utara
+<end>
+<makanan>
+Dekke Na Niura
+<end>
+<deskripsi>
+Masakan berbahan utama ikan mas ini awalnya hanya di masak saat acara adat saja karena sejarahnya juga na niura ini dulu makanan bagi para raja-raja suku batak, tapi sekarang semua kalangan sudah bisa menikmatinya. Proses pembuatan masakan ini cukup sederhana yaitu hanya mengoleskan bumbu dan asam ke atas ikan yang sudah dibersihkan, memang agak aneh tapi rasanya nikmat dan bikin ketagihan 
+<end>
+<link>
+https://cookpad.com/id/resep/532815-ikan-masak-naniura-dekke-naniura
+<end>
+
+<provinsi>
+Sumatera Utara
+<end>
+<makanan>
+Bika Ambon
+<end>
+<deskripsi>
+Bika ambon adalah sejenis penganan asal Indonesia. Terbuat dari bahan-bahan seperti telur, gula, dan santan, bika ambon umumnya dijual dengan rasa pandan, meskipun kini juga tersedia rasa-rasa lainnya seperti durian, keju, dan cokelat. Bika ambon biasanya dapat bertahan dalam kondisi terbaik selama sekitar empat hari karena setelah itu kue tersebut mulai mengeras.
+Menurut penjelasan M Muhar Omtatok, seorang budayawan dan sejarawan, kue bika ambon terilhami dari kue khas Melayu yaitu Bika atau Bingka. Selanjutnya dimodifikasi dengan bahan pengembang berupa nira/tuak enau hingga berongga dan berbeda dari kue Bika atau Bingka khas Melayu itu. Selanjutnya M Muhar Omtatok menyebutkan bahwa kue ini disebut bika ambon karena pertama sekali dijual dan popular di simpang Jl Ambon-Sei Kera Medan.<end>
+<link>
+https://id.wikibooks.org/wiki/Resep:Bika_ambon
+<end>
+
+<provinsi>
+Sumatera Barat
+<end>
+<makanan>
+Rendang
+<end>
+<deskripsi>
+Rendang atau randang adalah masakan daging bercita rasa pedas yang menggunakan campuran dari berbagai bumbu dan rempah-rempah. Masakan ini dihasilkan dari proses memasak yang dipanaskan berulang-ulang dengan santan kelapa. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga kering dan berwarna hitam pekat. Dalam suhu ruangan, rendang dapat bertahan hingga berminggu-minggu. Rendang yang dimasak dalam waktu yang lebih singkat dan santannya belum mengering disebut kalio, berwarna coklat terang keemasan.
+Rendang dapat dijumpai di Rumah Makan Padang di seluruh dunia. Masakan ini populer di Indonesia dan negara-negara Asia Tenggara lainnya, seperti Malaysia, Singapura, Brunei, Filipina, dan Thailand. Di daerah asalnya, Minangkabau, rendang disajikan di berbagai upacara adat dan perhelatan istimewa. Meskipun rendang merupakan masakan tradisional Minangkabau, masing-masing daerah di Minangkabau memiliki teknik memasak serta pilihan dan penggunaan bumbu yang berbeda.
+<end>
+<link>
+https://www.merdeka.com/gaya/resep-masak-rendang-daging-padang-kln.html
+<end>
+
+<provinsi>
+Sumatera Barat
+<end>
+<makanan>
+Ampiang Dadiah
+<end>
+<deskripsi>
+Ampiang Dadiah merupakan kudapan yang mengkombinasikan Ampiang (emping) yang terbuat dari beras ketan dengan dadiah, sejenis yoghurt tradisional Minangkabau.
+Makanan khas Sumatera Barat yang satu ini jika dilihat sekilas memang mirip bubur sumsum, namun soal rasa dan cara pembuatannya berbeda.
+Dalam proses pembuatannya, dadiah yang berasal dari susu kerbau segar dimasukkan ke dalam bambu yang sudah dipotong-potong kecil dan ditutup dengan daun pisang.
+<end>
+<link>
+http://jamgadang04.com/cara-membuat-ampiang-dadiah/.html
+<end>
+
+<provinsi>
+Riau
+<end>
+<makanan>
+Bolu Kemojo
+<end>
+<deskripsi>
+Kue ini hampir tak pernah absen saat perayaan acara adat di daerah. Teksturmya padat dan cenderung seperti kue basah, bukan seperti bolu yang lembut layaknya cake. Rasanya dominan manis dengan sedikit aroma dan rasa telur saat menyantapnya.
+Warna hijau pada bolu kemojo berasal dari campuran air daun suji dan daun pandan jadi bukan hanya menghasilkan warna tetapi juga ada aroma khasnya. Bolu kemojo dimasak dengan cara dikukus sehingga membuatnya kuat akan kesan tradisional.
+Masyarakat Riau sering membuat bolu kemojo secara bersama-sama karena saat perta adat atau upacara adat biasanya disajikan bolu kemojo dalam jumlah yang banyak. Dari ini bisa terlihat aktifitas gotong-royong yang merupakan warisan nenek moyang.
+<end>
+<link>
+https://cookpad.com/id/resep/7873020-bolu-kemojo-khas-riau?via=search&search_term=bolu%20kemojo%20khas%20pekanbaru
+<end>
+
+<provinsi>
+Riau
+<end>
+<makanan>
+Asidah
+<end>
+<deskripsi>
+Diterjemahkan dari bahasa Inggris-Asida adalah hidangan yang terbuat dari adonan tepung gandum yang dimasak, kadang-kadang ditambah mentega atau madu. Mirip dengan bubur atau bubur, dimakan di banyak negara Afrika Utara dan Timur Tengah. Dianggap sebagai salah satu hidangan penutup dan hidangan tradisional paling populer di banyak negara Arab.
+<end>
+<link>
+https://laskarriau.blogspot.com/2017/07/resep-cara-membuat-kue-asidah-khas.html
+<end>
+
+<provinsi>
+Kepulauan riau
+<end>
+<makanan>
+Luti Gendang
+<end>
+<deskripsi>
+Apabila dibandingkan dengan roti-roti kecil yang lain, Luti Gendang sangat berbeda dimana tekstur luar rotinya renyah dan dalamnya lembut. Roti atau sering disebut Luti oleh orang Melayu di Batam berisikan ikan tuna segar yang telah dicampur dan dibumbui dengan berbagai rempah-rempah khas melayu pulau Tarempa. Luti Gendang ini sangat cocok untuk dijadikan camilan bersantai dengan keluarga,apalagi jika disajikan hangat-hangat dan ditemani dengan secangkir teh hangat.
+<end>
+<link>
+https://www.idntimes.com/food/recipe/try-ervina/resep-luti-gendang-roti-isi-abon-ayam-khas-batam-c1c2/full
+<end>
+
+<provinsi>
+Kepulauan Riau
+<end>
+<makanan>
+Gong Gong
+<end>
+<deskripsi>
+Gonggong merupakan biota endemik yang hidup di perairan laut kepulauan Riau dan menjadi kuliner khas setempat yang sangat diminati oleh wisatawan domestik maupun mancanegara karena kandungan gizi dan rasanya yang lezat.
+Ketika anda mendengar kata Gonggong mungkin anda membayangkan hewan berkaki empat yang suka menggonggong, tapi bukan! Hewan ini sangat jauh berbeda dari yang anda bayangkan karena Gonggong hidup di laut dan sekilas mirip dengan keong dan termasuk jenis siput laut dengan ukuran sedang yang panjangnya dapat mencapai  7 cm. Dalam bahasa latin, Gonggong dikenal sebagai Strombus Canurium (ganus) dan masih tergabung dalam famili atau rumpun molusca.
+<end>
+<link>
+https://www.idntimes.com/food/recipe/try-ervina/ini-5-resep-olahan-gonggong-keong-laut-lezat-khas-kepulauan-riau-c1c2/full
+<end>
